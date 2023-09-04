@@ -1,0 +1,5 @@
+package Java.study;
+
+public enum Learning { COREJAVA,COLLECTION,GENERIC,JSPANDASERVLETS,MULTITHREADING
+
+}
